@@ -243,6 +243,11 @@ button:hover {
     width: 100%;
     height: auto;
   }
+  .mak-img img {
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
 
   .qr {
     flex-direction: column; /* stack QR sections */
@@ -260,4 +265,5 @@ button:hover {
     margin: 10px;
   }
 }
+
 
